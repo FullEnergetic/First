@@ -1,0 +1,29 @@
+
+World
+HELLO
+ESC
+esc
+i
+1)esc
+
+
+
+
+i esc
+1)esc
+i 1)esc
+2) :wq
+
+
+
+i
+1)esc 2) :wq
+
+
+
+
+
+
+
+
+
